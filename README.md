@@ -16,15 +16,14 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 
 📩 Estou aberto oportunidades conexões e parcerias na área.
 
----
-
+<div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais7&show_icons=true&theme=midnight-purple&hide_border" alt="Brenopais7 GitHub stats"/>
-  
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais7&layout=compact&theme=midnight-purple&hide_border" alt="Brenopais7TopLangs"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais7&theme=midnight-purple&hide_border" alt="Brenopais7 streak stats"/>
+</div>
 
 ---
+
   <a href="https://www.linkedin.com/in/brenopais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/dev_breno/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -35,6 +34,7 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 
 ## 🔧 Linguagens de Programação, Marcação e Estilização
 
+<div>
   <img  height="40" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img  height="40" width="40" alt="css-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <img  height="40" width="40" alt="react"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -43,12 +43,12 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
   <img height="40" width="40"  alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img height="40" width="40"  alt="sqldeveloper"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img  height="40" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+  
+<div>
   
   ## 🛠️ Ferramentas e Plataformas de Desenvolvimento
 
 <div>
-
 <img  height="40" width="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img height="40" width="40" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img height="40" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> 
@@ -57,8 +57,7 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 <img width="40" alt="windowns"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <div>
-          
-          
+      
 
 ## 📄 Linguagem que Utilizei para fazer a documetação
   <div>
