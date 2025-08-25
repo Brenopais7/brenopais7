@@ -4,7 +4,7 @@
 **`Desenvolvedor full stack Web🧑🏻‍💻`**
 
 
-formado em Gestão de Tecnologia da Informação, me considero como um Desenvolvedor Full Stack em formação, com foco em JavaScript, React, Node.js, HTML, CSS
+tenho 28 anos e sou natural de Aracaju. formado em Gestão de Tecnologia da Informação, me considero como um Desenvolvedor Full Stack Web em formação
 
 Tenho experiência prática em projetos acadêmicos e pessoais, desenvolvendo interfaces responsivas e integrando aplicações web com APIs.
 
