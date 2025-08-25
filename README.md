@@ -47,6 +47,8 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
   
   ## 🛠️ Ferramentas e Plataformas de Desenvolvimento
 
+<div>
+
 <img  height="40" width="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img height="40" width="40" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img height="40" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> 
@@ -54,7 +56,7 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 <img height="40" width="40" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img width="40" alt="windowns"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
+<div>
           
           
 
