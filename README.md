@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=midnight-purple&hide_borderheight=120&section=header"/>
 
 # Olá! Sou Breno Pais
 **`Desenvolvedor full stack Web🧑🏻‍💻`**
@@ -16,10 +15,12 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 
 📩 Estou aberto oportunidades conexões e parcerias na área.
 
+## ⚡ Estatísticas de Desenvolvimento
+
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Brenopais7&show_icons=true&theme=midnight-purple&hide_border" alt="Brenopais7 GitHub stats"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais7&layout=compact&theme=midnight-purple&hide_border" alt="Brenopais7TopLangs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais7&theme=midnight-purple&hide_border" alt="Brenopais7 streak stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=brenopais7&show_icons=true&theme=midnight-purple&hide_border">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais7&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais7&theme=midnight-purple&hide_border">
 </div>
 
 ---
@@ -29,8 +30,6 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
   <a href="https://www.instagram.com/dev_breno/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send/?phone=557998061518&text&type=phone_number&app_absent=0"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://discord.com/users/709143466768072774"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-
 
 ## 🔧 Linguagens de Programação, Marcação e Estilização
 
@@ -43,7 +42,6 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
   <img height="40" width="40"  alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img height="40" width="40"  alt="sqldeveloper"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img  height="40" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  
 <div>
   
   ## 🛠️ Ferramentas e Plataformas de Desenvolvimento
@@ -58,12 +56,9 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <div>
       
-
 ## 📄 Linguagem que Utilizei para fazer a documetação
   <div>
     <img height="40" width="40" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
   </div>
-
    <p align="center">⚡🧑🏻‍💻 Breno Pais  - Estudante, Desenvolvedor e Apaixonado por Tecnologia<p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=midnight-purple&hide_borderheight=120&section=footer"/>
