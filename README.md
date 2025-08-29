@@ -18,9 +18,9 @@ Estou constantemente em evolução, participando de cursos e comunidades de tecn
 ## ⚡ Estatísticas de Desenvolvimento
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=brenopais7&show_icons=true&theme=midnight-purple&hide_border">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Brenopais7&show_icons=true&theme=midnight-purple&hide_border">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopais7&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brenopais7&theme=midnight-purple&hide_border">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Brenopais7&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D">
 </div>
 
 ---
